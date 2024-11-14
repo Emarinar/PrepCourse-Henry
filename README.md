@@ -1,1 +1,2 @@
 Este es un proyecto de prueba de como crear un repositorio y como clonarlo desde github a mi escritorio
+Tambien este curso ofrecera como crecer en el mundo de la programación y llegar a ser un full stack
